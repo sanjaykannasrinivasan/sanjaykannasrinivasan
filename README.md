@@ -3,12 +3,12 @@
  <img src="https://i.giphy.com/media/W23QYxLYjRp87yFlFC/giphy.webp" width="500" height="260"> 
 </div>
 
-<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vimal!</h1>
+<h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Sanjaykanna!</h1>
 
 I'm currently pursuing my bachelor's with <b>Computer Science Major</b> @ <b>K.Ramakrishnan College of Technology</b>, Trichy. I'm a passionate coder and have a huge enthusiasm in open source and problem solving. I have always been passionate about technology. I'm a person who always loves to takes on challenges !!
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="vimalprogrammer" /> </p>
+<img src="https://komarev.com/ghpvc/?username=vimalprogrammer&label=Profile%20views&color=ce9927&style=flat" alt="sanjaykanna" /> </p>
 ⚡ Fun fact **It’s not a bug – it’s an undocumented feature.**
 
 <h1 align="center">Tech-Stack</h1>
@@ -40,9 +40,8 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/vimalprogrammer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/vimalms_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:msvimal10@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/vimal.programmer/" target="_blank">
+<a  href="https://www.linkedin.com/in/sanjaykanna-s-460082230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sanjaykanna889@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/vimal.programmer/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
 <a  href="https://www.instagram.com/_vimal_ms/"><img alt=" Telegram" src="https://img.shields.io/badge/instagram-209230?style=for-the-badge&logo=instagram&logoColor=white">
    <a href="https://www.codechef.com/users/sanjay_4081"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
