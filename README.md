@@ -22,14 +22,12 @@ I have great enthusiasm in new innovative technologies and I love to learn and l
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%978F7D64E" />
- <img alt="Docker" src="https://img.shields.io/badge/docker-%93871678211.svg?&style=for-the-badge&logo=docker&logoColor=%9u7239" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%278F7D64E" />
  <img alt="Django" src="https://img.shields.io/badge/django-%982380svg?&style=for-the-badge&logo=django&logoColor=black" />
- <img alt="SaSS" src="https://img.shields.io/badge/sass-%2388599C.svg?&style=for-the-badge&logo=sass&logoColor=pink%22" />
 </p>
 
-I believe in implementing the knowledge which I have. I'm always keen to learn and improve my technical skills so that I am 100% prepared for any challenging project.
+I believe in implementing the knowledge which I have. I'm always keep to learn and improve my technical skills so that I am 100% prepared for any challenging project.
 
 
 <hr>
@@ -42,8 +40,6 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 <a  href="https://www.linkedin.com/in/sanjaykanna-s-460082230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sanjaykanna889@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/vimal.programmer/" target="_blank">
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-<a  href="https://www.instagram.com/_vimal_ms/"><img alt=" Telegram" src="https://img.shields.io/badge/instagram-209230?style=for-the-badge&logo=instagram&logoColor=white">
    <a href="https://www.codechef.com/users/sanjay_4081"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
  </a>
 
@@ -51,10 +47,10 @@ I believe <b>"Network is Networth"<b>. Alone we can do so little; together we ca
 
 <h1 align="center">Github Stats</h1>
  <div align="center" >
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vimalprogrammer&show_icons=true&theme=gotham" alt="vimalprogrammer" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalprogrammer&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjaykannasrinivasan&show_icons=true&theme=gotham" alt="sanjaykanna" />  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykannasrinivasan&layout=compact&theme=dracula"><!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula--> 
 </div> 
  <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykannasrinivasan")>
 <div align="center">
 
  ### Coding Stats
@@ -66,5 +62,5 @@ No Activity tracked this Week
 
 <!--..-->
  
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vimalprogrammer&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanjaykannasrinivasan&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
